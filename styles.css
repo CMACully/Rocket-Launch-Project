@@ -1,0 +1,35 @@
+/*  Programmer: Chauntel Atchley Cully
+    Objective: By using the API the Launch Library provides. Utilize the XMLHttpRequest constructor and create an object that will handle your API request and response.
+     Date Created: 12/2/2021 
+     Date Updated: 12/4/2021 */
+
+h2,
+h5,
+h6,
+p {
+    color: azure;
+}
+
+.card-img-top {
+    padding: 10px 10px 5px 10px;
+}
+
+.nav-tabs {
+    padding: 10px 10px 0 10px;
+}
+
+.container {
+    margin-top: 25px;
+}
+
+footer {
+    text-align: center;
+}
+
+body {
+    background-color: black;
+    background-image: url("space.jpg");
+    background-repeat: no-repeat;
+    background-size: inherit;
+    font-family: "Oswald", sans-serif;
+}
